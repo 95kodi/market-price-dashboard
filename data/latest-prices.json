@@ -1,0 +1,212 @@
+[
+  {
+    "product_id": 11,
+    "store_name": "Amazon",
+    "price": 37999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 11,
+    "store_name": "Reliance Digital",
+    "price": 37999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 10,
+    "store_name": "Reliance Digital",
+    "price": 31999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 11,
+    "store_name": "Poorvika",
+    "price": 37999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 10,
+    "store_name": "Poorvika",
+    "price": 31999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 11,
+    "store_name": "Flipkart",
+    "price": 37999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 9,
+    "store_name": "Amazon",
+    "price": 16000,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 9,
+    "store_name": "Reliance Digital",
+    "price": 16999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 9,
+    "store_name": "Flipkart",
+    "price": 16999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 8,
+    "store_name": "Poorvika",
+    "price": 98000,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 10,
+    "store_name": "Flipkart",
+    "price": 31999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 9,
+    "store_name": "Poorvika",
+    "price": 16999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 8,
+    "store_name": "Amazon",
+    "price": 96990,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 7,
+    "store_name": "Flipkart",
+    "price": 154900,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 7,
+    "store_name": "Reliance Digital",
+    "price": 103900,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 6,
+    "store_name": "Reliance Digital",
+    "price": 164990,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 7,
+    "store_name": "Poorvika",
+    "price": 149900,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 8,
+    "store_name": "Flipkart",
+    "price": 101900,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 6,
+    "store_name": "Amazon",
+    "price": 169900,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 6,
+    "store_name": "Poorvika",
+    "price": 169900,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 5,
+    "store_name": "Amazon",
+    "price": 64999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 5,
+    "store_name": "Reliance Digital",
+    "price": 57999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 5,
+    "store_name": "Poorvika",
+    "price": 76999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 6,
+    "store_name": "Flipkart",
+    "price": 169900,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 4,
+    "store_name": "Amazon",
+    "price": 54999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 4,
+    "store_name": "Poorvika",
+    "price": 54999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 3,
+    "store_name": "Amazon",
+    "price": 44999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 4,
+    "store_name": "Flipkart",
+    "price": 50549,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 5,
+    "store_name": "Flipkart",
+    "price": 76499,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 3,
+    "store_name": "Poorvika",
+    "price": 54999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 2,
+    "store_name": "Reliance Digital",
+    "price": 16999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 2,
+    "store_name": "Flipkart",
+    "price": 16999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 2,
+    "store_name": "Poorvika",
+    "price": 16999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 2,
+    "store_name": "Amazon",
+    "price": 18999,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 3,
+    "store_name": "Flipkart",
+    "price": 59998,
+    "last_updated": "2026-06-06T02:22:07.575Z"
+  }
+]

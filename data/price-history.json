@@ -1,0 +1,422 @@
+[
+  {
+    "product_id": 11,
+    "store_name": "Amazon",
+    "price": 37999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 11,
+    "store_name": "Reliance Digital",
+    "price": 37999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 10,
+    "store_name": "Reliance Digital",
+    "price": 31999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 11,
+    "store_name": "Poorvika",
+    "price": 37999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 10,
+    "store_name": "Poorvika",
+    "price": 31999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 11,
+    "store_name": "Flipkart",
+    "price": 37999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 9,
+    "store_name": "Amazon",
+    "price": 16000,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 9,
+    "store_name": "Reliance Digital",
+    "price": 16999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 9,
+    "store_name": "Flipkart",
+    "price": 16999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 8,
+    "store_name": "Poorvika",
+    "price": 119900,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 10,
+    "store_name": "Flipkart",
+    "price": 31999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 9,
+    "store_name": "Poorvika",
+    "price": 17999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 8,
+    "store_name": "Amazon",
+    "price": 96990,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 7,
+    "store_name": "Flipkart",
+    "price": 154900,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 7,
+    "store_name": "Reliance Digital",
+    "price": 103900,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 6,
+    "store_name": "Reliance Digital",
+    "price": 164990,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 7,
+    "store_name": "Poorvika",
+    "price": 149900,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 8,
+    "store_name": "Flipkart",
+    "price": 101900,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 6,
+    "store_name": "Amazon",
+    "price": 169900,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 6,
+    "store_name": "Poorvika",
+    "price": 169900,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 5,
+    "store_name": "Amazon",
+    "price": 64999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 5,
+    "store_name": "Reliance Digital",
+    "price": 57999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 5,
+    "store_name": "Poorvika",
+    "price": 76999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 6,
+    "store_name": "Flipkart",
+    "price": 169900,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 4,
+    "store_name": "Amazon",
+    "price": 54999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 4,
+    "store_name": "Poorvika",
+    "price": 54999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 3,
+    "store_name": "Amazon",
+    "price": 44999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 4,
+    "store_name": "Flipkart",
+    "price": 50549,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 5,
+    "store_name": "Flipkart",
+    "price": 76499,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 3,
+    "store_name": "Poorvika",
+    "price": 54999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 2,
+    "store_name": "Reliance Digital",
+    "price": 16999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 2,
+    "store_name": "Flipkart",
+    "price": 16999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 2,
+    "store_name": "Poorvika",
+    "price": 16999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 2,
+    "store_name": "Amazon",
+    "price": 18999,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 3,
+    "store_name": "Flipkart",
+    "price": 59998,
+    "scraped_at": "2026-06-06T02:18:57.752Z"
+  },
+  {
+    "product_id": 11,
+    "store_name": "Amazon",
+    "price": 37999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 11,
+    "store_name": "Reliance Digital",
+    "price": 37999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 11,
+    "store_name": "Poorvika",
+    "price": 37999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 10,
+    "store_name": "Reliance Digital",
+    "price": 31999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 10,
+    "store_name": "Flipkart",
+    "price": 31999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 11,
+    "store_name": "Flipkart",
+    "price": 37999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 10,
+    "store_name": "Poorvika",
+    "price": 31999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 9,
+    "store_name": "Amazon",
+    "price": 16000,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 9,
+    "store_name": "Flipkart",
+    "price": 16999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 9,
+    "store_name": "Reliance Digital",
+    "price": 16999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 9,
+    "store_name": "Poorvika",
+    "price": 16999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 8,
+    "store_name": "Flipkart",
+    "price": 101900,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 8,
+    "store_name": "Poorvika",
+    "price": 98000,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 8,
+    "store_name": "Amazon",
+    "price": 96990,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 7,
+    "store_name": "Flipkart",
+    "price": 154900,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 7,
+    "store_name": "Reliance Digital",
+    "price": 103900,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 7,
+    "store_name": "Poorvika",
+    "price": 149900,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 6,
+    "store_name": "Reliance Digital",
+    "price": 164990,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 6,
+    "store_name": "Flipkart",
+    "price": 169900,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 6,
+    "store_name": "Amazon",
+    "price": 169900,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 6,
+    "store_name": "Poorvika",
+    "price": 169900,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 5,
+    "store_name": "Amazon",
+    "price": 64999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 5,
+    "store_name": "Flipkart",
+    "price": 76499,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 5,
+    "store_name": "Reliance Digital",
+    "price": 57999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 5,
+    "store_name": "Poorvika",
+    "price": 76999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 4,
+    "store_name": "Amazon",
+    "price": 54999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 4,
+    "store_name": "Flipkart",
+    "price": 50549,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 3,
+    "store_name": "Amazon",
+    "price": 44999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 4,
+    "store_name": "Poorvika",
+    "price": 54999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 3,
+    "store_name": "Poorvika",
+    "price": 54999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 3,
+    "store_name": "Flipkart",
+    "price": 59998,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 2,
+    "store_name": "Reliance Digital",
+    "price": 16999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 2,
+    "store_name": "Flipkart",
+    "price": 16999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 2,
+    "store_name": "Poorvika",
+    "price": 16999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  },
+  {
+    "product_id": 2,
+    "store_name": "Amazon",
+    "price": 18999,
+    "scraped_at": "2026-06-06T02:22:07.575Z"
+  }
+]
